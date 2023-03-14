@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "todo-demo-app-angular-48269"
+  },
+  "targets": {
+    "todo-demo-app-angular-48269": {
+      "hosting": {
+        "demo-app": [
+          "todo-demo-app-angular-48269"
+        ]
+      }
+    }
+  }
+}
